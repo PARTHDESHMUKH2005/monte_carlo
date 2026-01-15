@@ -1,0 +1,7 @@
+libraries used:
+streamlit
+pandas
+numpy
+matplotlib
+sklearn
+openai
